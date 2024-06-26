@@ -1,1 +1,0 @@
-# extending the Thread class

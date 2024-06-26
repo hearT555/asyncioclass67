@@ -1,1 +1,0 @@
-# Basic Synchronization Using Lock
